@@ -4,9 +4,7 @@
 
 Link: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
 
-#######
-
-Entendendo o projeto:
+####### Entendendo o projeto:
 
 
 
