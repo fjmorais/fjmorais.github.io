@@ -4,7 +4,7 @@
 
 Link: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
 
-##### Entendendo o projeto:
+#### Entendendo o projeto:
 
 O Gerente da AdventureWorks deseja receber um relatório em um formato D-1 com as seguintes informações:
 
