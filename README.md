@@ -16,9 +16,13 @@ O Gerente da AdventureWorks deseja receber um relatório em um formato D-1 com a
 Com essa ideia temos a necessidade de criar:
 
 1 - Uma Fato de vendas com o valor unitário e sua quantidade;
+
 2 - Dimensão de Produtos;
+
 3 - Dimensão de Data do porduto vendido;
+
 4 - Dimesão de localidade.
+
 
 #### Fazendo o SQL Power Archicteture para a modelagem do banco de dados Stage
 
