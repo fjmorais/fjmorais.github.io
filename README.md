@@ -34,6 +34,7 @@ Com essa ideia temos a necessidade de criar:
 #### Fazendo o SQL Power Archicteture para a modelagem do banco de dados Stage
 
 
+![image](https://github.com/fjmorais/fjmorais.github.io/assets/40808066/b7b3e17f-f255-4c94-8efa-8b03f211e147)
 
 
 
