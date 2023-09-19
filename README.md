@@ -20,6 +20,7 @@ Com essa ideia temos a necessidade de criar:
 3 - Dimensão de Data do porduto vendido;
 4 - Dimesão de localidade.
 
+#### Fazendo o SQL Power Archicteture para a modelagem do banco de dados Stage
 
 
 
