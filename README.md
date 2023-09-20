@@ -28,13 +28,20 @@ Com essa ideia temos a necessidade de criar:
 
 4 - Dimesão de localidade;
 
-5 - Dimensãoi Loja.
+5 - Dimensão Loja.
 
 
 #### Fazendo o SQL Power Archicteture para a modelagem do banco de dados Stage
 
+![image](https://github.com/fjmorais/fjmorais.github.io/assets/40808066/a5a9f7d3-4f73-4a24-acc9-a7104e1763bf)
 
-![image](https://github.com/fjmorais/fjmorais.github.io/assets/40808066/b7b3e17f-f255-4c94-8efa-8b03f211e147)
+Figura 1 - Modelagem OLAP para o DW Vendas AdventureWorks2022
+
+Um ponto de atenção nesse modelagem está no quesito de inserir o identificador único da venda na tabela fato. Como a mesmo não representa uma Dimensão, temos o que chamamos de Dimensão Degenerada. E, nesse caso também, esse tipo de modelagem permite em uma base de dados onde o valor unitário pode receber uma atualização ou até mesmo ser excluído, criar uma processo para atualizar o dado na tabela fato ou até mesmo excluir.
+
+
+
+
 
 
 
